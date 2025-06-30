@@ -1,1 +1,8 @@
-create repository.
+step 1 :create repository
+step 2 :git clone (repository link)
+step 3 :git status
+step 4 :git add .(dot for to add all)
+step 5 :git commit -m "message"
+step 6 :git pull origin main
+step 7 :git push origin main
+
